@@ -3,7 +3,7 @@ import {
   Routes,
   Route,
   NavLink,
-  Navigate,
+  Navigate
 } from "react-router-dom";
 import { LazyPage1,LazyPage2,LazyPage3  } from "../01-lazyload/pages";
 
